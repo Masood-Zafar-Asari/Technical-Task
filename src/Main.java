@@ -2,7 +2,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-//This test logins into the URL below selects the highest priced item and then adds it to the cart
+//This test logins into the URL below selects the highest priced item and then adds it to the cart.
 
 public class Main {
 
